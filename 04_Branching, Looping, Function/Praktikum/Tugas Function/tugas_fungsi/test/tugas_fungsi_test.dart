@@ -1,0 +1,8 @@
+import 'package:tugas_fungsi/tugas_fungsi.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
