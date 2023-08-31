@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/01_Program Untuk Mengecek Bilangan Prima Atau Bukan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/01_Program Untuk Mengecek Bilangan Prima Atau Bukan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/01_Program Untuk Mengecek Bilangan Prima Atau Bukan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/03_perhitungan bilangan faktorial secara asinkron/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/03_perhitungan bilangan faktorial secara asinkron/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/03_perhitungan bilangan faktorial secara asinkron/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/02_Program Untuk Mencetak Tabel Perkalian/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/02_Program Untuk Mencetak Tabel Perkalian/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Soal Eksplorasi/02_Program Untuk Mencetak Tabel Perkalian/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03_Fundamental Dart/Praktikum/fundamental_dart_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03_Fundamental Dart/Praktikum/fundamental_dart_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03_Fundamental Dart/Praktikum/fundamental_dart_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Function/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Function/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Function/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/02_program untuk menghitung rata-rata dari sekumpulan nilai/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/02_program untuk menghitung rata-rata dari sekumpulan nilai/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/02_program untuk menghitung rata-rata dari sekumpulan nilai/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/kursus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/kursus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/kursus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/01_Program Untuk Menghilangkan Nilai/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/01_List Dengan Spesifikasi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/01_List Dengan Spesifikasi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Prioritas 2/01_List Dengan Spesifikasi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/Kalkulator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/Kalkulator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Prioritas 2/Kalkulator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_piramid/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_piramid/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_piramid/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05_Advance Function, Async Await, Collection Dart/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas_Percabangan(Branching)/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas_Percabangan(Branching)/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas_Percabangan(Branching)/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_faktorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_faktorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Branching, Looping, Function/Praktikum/Tugas Looping/looping_faktorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_Fundamental Object Oriented Programming/Praktikum/Soal Eksplorasi/02_Program Untuk Menghitung Frekuensi/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
