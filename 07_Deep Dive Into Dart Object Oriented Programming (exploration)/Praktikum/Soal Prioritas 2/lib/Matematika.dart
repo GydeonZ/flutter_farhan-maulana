@@ -1,6 +1,6 @@
 class Matematika {
   int hasil() {
-    return 0; // Ini hanya contoh, Anda dapat menggantinya sesuai kebutuhan
+    return 0;
   }
 }
 
