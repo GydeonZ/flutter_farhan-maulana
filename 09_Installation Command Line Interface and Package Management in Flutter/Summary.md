@@ -1,7 +1,7 @@
-# Introduction Flutter and Flutter widget
+# Installation Command Line and Package Management in Flutter
 
-1. Flutter adalah sebuah framework untuk membuat aplikasi mobile yang dikembangkan oleh Google. Flutter menggunakan bahasa pemrograman Dart yang dikembangkan oleh Google juga. Flutter menggunakan pendekatan declarative untuk membuat aplikasi mobile.
+1. Flutter CLI alat yang digunakan untuk berinteraksi dengan Flutter SDK dan perintah dijalankan dalam terminal atau command prompt.
 
-2. Keunggulan dari flutter adalah kita dapat membuat aplikasi mobile untuk Android dan iOS dengan menggunakan satu codebase yang sama. Selain itu, flutter juga menggunakan widget sebagai komponen utama untuk membuat aplikasi mobile.
+2. List important CLI Commands : Flutter Doctor, Flutter Create, Flutter Run, Flutter Emulator, Flutter Channel, Flutter Pub, Flutter Build, Flutter Clean
 
-3. Bagian dari Flutter yang bertanggung jawab untuk mengatur layout dan interaksi dengan user disebut dengan widget. Flutter memiliki banyak sekali widget yang dapat kita gunakan untuk membuat aplikasi mobile. Widget dapat dikelompokkan menjadi 2 jenis, yaitu StatelessWidget dan StatefulWidget.
+3. Flutter Package Management adalah proses pengelolaan dan penggunaan paket atau modul pihak ketiga dalam proyek Flutter. Dalam Flutter, paket atau modul pihak ketiga digunakan untuk menambahkan fungsionalitas tambahan ke aplikasi.
