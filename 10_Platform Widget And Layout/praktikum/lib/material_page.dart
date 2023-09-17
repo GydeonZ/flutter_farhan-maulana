@@ -48,11 +48,11 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.deepPurple,
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.add),
+            icon: const Icon(Icons.add),
             onPressed: () => debugPrint('Add'),
           ),
           IconButton(
-            icon: Icon(Icons.search),
+            icon: const Icon(Icons.search),
             onPressed: () => debugPrint('Search'),
           ),
         ],
