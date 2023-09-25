@@ -12,12 +12,14 @@ import 'package:praktikum/material_page.dart';
 //   }
 // }
 
-// ignore: use_key_in_widget_constructors
+
 class App extends StatelessWidget {
+  const App({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'My App',
       initialRoute: '/',
       routes: {
