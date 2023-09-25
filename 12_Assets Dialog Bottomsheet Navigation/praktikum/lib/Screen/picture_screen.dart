@@ -97,7 +97,7 @@ void _showImageBottomSheet(BuildContext context, String imagePath) {
             imageName, // Use the image name as the title
             style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
-          const Text('Additional information about the image goes here.'),
+          const Text('Apakah anda ingin melihat yang lebih detail ?'),
           const SizedBox(height: 16),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -129,5 +129,3 @@ void _showImageBottomSheet(BuildContext context, String imagePath) {
     },
   );
 }
-
-
